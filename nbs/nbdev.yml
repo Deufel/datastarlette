@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "datastarlette"
+  site-url: "https://Deufel.github.io/datastarlette"
+  description: "An opinionated implementation of fastcore.xml; Datastar, and Starlette"
+  repo-branch: master
+  repo-url: "https://github.com/Deufel/datastarlette"
